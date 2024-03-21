@@ -1,0 +1,7 @@
+body{
+    background-color: orange;
+}
+
+.colum{
+    column-count: 3;
+}

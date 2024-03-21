@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<catalog>
+    <book>
+        <id>978-1-84078-840-2</id>>
+        <title>C programming in easy steps, 5th Edition</title>
+        </book>
+    <book>
+        <id>978-1-84078-757-3</id>>
+        <title>C++ programming in easy steps, 5th Edition</title>
+    </book>
+    </catalog>

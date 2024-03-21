@@ -1,0 +1,19 @@
+(function (){
+    let flag = false;
+    const num = 10;
+    if(!flag)
+    {
+        console.log('Power is OFF!')
+    } else {
+        console.log('Power is ON!')
+    }
+    if(num===5)
+    {
+        console.log('Number is five!')
+    } else if(num === 10)
+    {
+        console.log('Number is ten!')
+    } else {
+        console.log('Number is Neither Five nor Ten')
+    }
+})()

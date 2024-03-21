@@ -1,0 +1,40 @@
+legend{
+    background: tomato;
+    color: white;
+}
+
+table{
+    text-align: center;
+}
+
+td{
+    width: 50px;
+    height: 20px;
+}
+td.col{
+    background: lightblue;
+}
+td.row{
+    background: Lightgreen;
+}
+td.tot{
+    background: darkorange;
+    color: white;
+}
+td.gto{
+    background: khaki;
+}
+#databox{
+    width: 360px;
+    padding: 5px;
+    margin: auto;
+}
+#editbox{
+    width: 360px;
+    padding: 5px;
+    margin: auto;
+    border: 1px solid tomato;
+    color: tomato;
+
+}
+

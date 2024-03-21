@@ -1,0 +1,16 @@
+(function (){
+    let str = 'JavaScript in easy steps'
+    console.log('"Script" Search: ' + str.search('Script'))
+    console.log('"Script" Search: ' + str.search('Script'))
+    console.log('\n"Script" Match: ' + str.match('Script'))
+    console.log('"Script" Match: ' + str.match('Script'))
+    console.log('\nindexOf"s": ' + str.indexOf('s'))
+    console.log('indexOf"m": ' + str.indexOf('m'))
+    console.log('\nlastIndexOf"s": ' + str.lastIndexOf('s'))
+    console.log('\nlastIndexOf"m": ' + str.lastIndexOf('m'))
+    console.log('\ncharAt 0: ' + str.charAt(0))
+    console.log('charCodeAt 0: ' + str.charCodeAt(0))
+    console.log('fromCharCode: ' + String.fromCharCode(74, 97, 118, 97))
+    console.log('\nOriginal: ' + str)
+    console.log('Replaced: ' + str.replace('easy','simple'))
+})()

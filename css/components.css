@@ -1,0 +1,15 @@
+*{
+    font: 1em sans-serif;
+}
+form{
+    width: 500px;
+    height: 100px;
+    background: url("/JS_lern/img/bg.jpg");
+}
+body{
+    background-color: bisque;
+    color: black;
+}
+.com{
+    margin: 5px;
+}
